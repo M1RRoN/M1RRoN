@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Denis</h1>
+<h1 align="center">Hi there👋, I'm Denis</h1>
 <h3 align="center">A passionate backend developer from Russia</h3>
 
 - 🌱 I’m currently learning **Django, DRF**
@@ -6,7 +6,7 @@
 <h3 align="left">Connect with me:</h3>
 
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/M1rr0n)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mds.myst@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mds.myst@gmail.com)
 
 <p align="left">
 </p>
