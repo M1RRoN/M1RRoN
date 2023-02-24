@@ -13,4 +13,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=M1RRoN&show_icons=true&theme=tokyonight" alt="m1rron" /></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=m1rron&show_icons=true&locale=en&layout=compact" alt="m1rron" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=m1rron&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="m1rron" /></p>
